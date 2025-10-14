@@ -1,4 +1,12 @@
 body {
     color:aliceblue;
     blackground:brow;
+    margin: 0px;
+}
+
+header {
+    border-bottom: solid 2px rgba(42, 123, 228, 0.466);
+    padding: 20px;
+    fonte-size: 32px;
+    color: rgba(42, 123, 228, 0.466)
 }
